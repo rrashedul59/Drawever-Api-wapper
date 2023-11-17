@@ -32,6 +32,6 @@ Welcome to Drawever AI, your go-to tool for transforming ordinary photos into ca
 - Experiment with different photos to explore the variety of styles our AI can create.
 
 ## Feedback
-We value your feedback! Share your experience with Drawever AI on our [Feedback Page](https://draweverai.com/feedback) to help us improve and cater to your creative needs.
+We value your feedback! Share your experience with Drawever AI on our [Feedback Page](https://drawever.com/feedback) to help us improve and cater to your creative needs.
 
 Enjoy transforming your photos into mesmerizing anime artwork with Drawever AI!
